@@ -1,7 +1,3 @@
-# JsValidation
-Validations with JS.
-
-
 # ValidatorJS ❤
 
 ### Para el correcto uso del módulo tenga en cuenta los siguientes requerimientos
